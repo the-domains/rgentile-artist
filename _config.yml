@@ -1,14 +1,25 @@
-layout_spectrum: 0.2665446
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.4371966
 color:
   saturation: 0.0223825
-  lightness: 0.2103314
   brandStrength: 0.6273199
-  rhythmicContrast: 0.1570764
+  lightness: 0.2103314
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#0D0D10'
+    - '#5C5C5C'
+    - '#A3A29A'
+    - '#FBFBF2'
+  rhythmicContrast: 0.1570764
+layout_spectrum: 0.2665446
 name: Rgentile.artist
