@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.4371966
 color:
   saturation: 0.0223825
   brandStrength: 0.6273199
@@ -21,5 +20,6 @@ color:
     - '#A3A29A'
     - '#FBFBF2'
   rhythmicContrast: 0.1570764
-layout_spectrum: 0.2665446
+typography_spectrum: 0.4371966
+layout_spectrum: 0.8853046
 name: Rgentile.artist
