@@ -1,25 +1,25 @@
+color:
+  saturation: 0.0223825
+  brandStrength: 0.6273199
+  rhythmicContrast: 0.1570764
+  brandColors:
+    - '#0D0D10'
+    - '#5C5C5C'
+    - '#A3A29A'
+    - '#FBFBF2'
+  lightness: 0.2103314
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.0223825
-  brandStrength: 0.6273199
-  lightness: 0.2103314
-  brandColors:
-    - '#0D0D10'
-    - '#5C5C5C'
-    - '#A3A29A'
-    - '#FBFBF2'
-  rhythmicContrast: 0.1570764
-typography_spectrum: 0.4371966
+    permalink:
+      path: '/:title/'
 layout_spectrum: 0.8853046
+typography_spectrum: 0.4371966
 name: Rgentile.artist
