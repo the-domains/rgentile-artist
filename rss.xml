@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Rgentile.artist]]></title>
         <description><![CDATA[Rgentile.artist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rgentile-artist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 00:46:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 00:47:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rgentile-artist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fc5656f-1568-4874-848a-e2977698a3be.png">]]></description>
+            <link>https://thegrid.ai/rgentile-artist/7c29e62e-0e05-4a9d-b982-9ea0e720c327/index.html</link>
+            <guid isPermaLink="false">7c29e62e-0e05-4a9d-b982-9ea0e720c327</guid>
+            <pubDate>Tue, 19 Apr 2016 00:47:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Commute 48"x48" acrylic on canvas]]></title>
             <description><![CDATA[<article><h1>Commute 48"x48" acrylic on canvas</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b740ce42-b3f9-4934-bab9-629744b457f3.png"></article>]]></description>
-            <link>undefinedcommute-48x48-acrylic-on-canvas/index.html</link>
+            <link>https://thegrid.ai/rgentile-artist/commute-48x48-acrylic-on-canvas/index.html</link>
             <guid isPermaLink="false">f2424a6d-db79-4811-b5f7-e3daff1386c2</guid>
             <pubDate>Tue, 19 Apr 2016 00:46:34 GMT</pubDate>
         </item>
